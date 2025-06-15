@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DAAE1&center=true&vCenter=true&width=435&lines=💡+Full+Stack+Developer+(MERN%2C+Next.js);🚀+Loves+building+community+projects;🌱+Passionate+about+tech+for+good;🎯+Focused+on+clean+code+%26+real-time+apps" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 🌍 About Me
