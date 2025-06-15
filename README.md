@@ -8,7 +8,7 @@
 - 🎓 Information Systems Undergraduate at [UCSC, University of Colombo](https://ucsc.cmb.ac.lk/)
 - 📬 Reach me at: **shashithrashmika2022@gmail.com**
 - 💬 I love building: scalable platforms, real-time systems, social apps, and smart solutions
-- ⚡ Interests: Software Engineering | QA | Full Stack | Open Source
+- ⚡ Interests: Software Engineering | QA | Full Stack |
 
 ---
 
