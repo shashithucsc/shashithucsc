@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashith Rashmika</h1>
 <h3 align="center">💻 Full Stack Developer | MERN | Next.js | PHP | JavaFX</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DAAE1&center=true&vCenter=true&width=500&lines=💡+Full+Stack+Developer+from+Sri+Lanka;🚀+Passionate+about+real-time+systems;🌱+Always+learning+and+building;🎯+Focused+on+clean+code+%26+tech+for+good" alt="Typing SVG" />
-</p>
 
----
 
 ### 🌍 About Me
 
