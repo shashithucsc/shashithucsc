@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shashith Rashmika</h1>
 <h3 align="center">💻 Full Stack Developer | MERN | Next.js | PHP | JavaFX</h3>
 
-
+---
 
 ### 🌍 About Me
 
-- 🎓 Information Systems Undergraduate at [UCSC, University of Colombo](https://ucsc.cmb.ac.lk/)
-- 📬 Reach me at: **shashithrashmika2022@gmail.com**
-- 💬 I love building: scalable platforms, real-time systems, social apps, and smart solutions
-- ⚡ Interests: Software Engineering | QA | Full Stack |
+- 🎓 Information Systems Undergraduate at [UCSC, University of Colombo](https://ucsc.cmb.ac.lk/)  
+- 📬 Reach me at: **shashithrashmika2022@gmail.com**  
+- 💬 Passionate about building scalable platforms, real-time systems, and smart solutions  
+- ⚡ Interests: Software Engineering | QA | Full Stack Development
 
 ---
 
@@ -16,23 +16,28 @@
 
 #### 💼 Full Stack Developer
 
-- 🛠️ **HomeGenie** – PHP MVC-based On-Demand Home Services Platform  
-  `PHP • MySQL • HTML • JS • CSS`
+- 🛠️ **HomeGenie** – PHP MVC On-Demand Home Services Platform  
+  `PHP • MySQL • HTML • CSS • JS` | Centralized platform for service booking & supplier management  
 
-- 🔔 **ClubSync** – React Native & Web Platform for Club Events & Volunteers  
-  `React.js • MongoDB • Node.js • Cloudinary • Socket.io`
+- 🔔 **ClubSync** – Volunteer & Event Management Platform  
+  `React.js • Node.js • PostgreSQL • React Native • Socket.io` | Web/mobile platform for events, attendance, and volunteer engagement  
 
-<!--- 🧊 **ChillCampus** – Next.js Based Social Platform for University Students  
-  `Next.js • Express.js • MongoDB • TypeScript`
+- 🌐 **Chill Campus** – Inter-University Social Platform  
+  `Next.js • Node.js • MongoDB` | Connects university students for collaboration with real-time chat  
 
-- 💬 **Chatty Chatty** – Secure One-to-One Chat App  
-  `React.js • MongoDB • Socket.io • Express.js` -->
+- 🐘 **JumboTrack** – Wildlife Safety Concept  
+  `Figma` | Early-warning system to prevent elephant-train collisions  
 
-- 🐘 **JumboTrack** – ICT4D Early-Warning System for Elephant-Train Collisions  
-  `Figma • UI/UX • Wildlife Tech`
+- ☕ **Cafe Hifi** – JavaFX Cafe Management System  
+  `JavaFX • MySQL` | POS system with admin/employee roles and sales tracking  
 
-- ☕ **Cafe Hifi** – JavaFX-based Cafe Management System  
-  `JavaFX • FXML • MySQL`
+- 💻 **Laptop Price Predictor** – ML-Based Web App  
+  `Python • Scikit-learn` | Predicts laptop prices using Random Forest  
+
+- 📚 **Other Projects:**  
+  Athagili – Cultural dating platform (Next.js, Supabase, TailwindCSS)  
+  Chatty Chatty – Real-time MERN chat app  
+  Book Management System – React + Spring Boot CRUD app  
 
 ---
 
@@ -45,7 +50,7 @@
 `React.js` `Next.js` `Node.js` `Express.js` `Socket.io` `Laravel` `JavaFX`
 
 **Tools & Skills:**  
-`Git` `GitHub` `MySQL` `MongoDB` `REST APIs` `MVC` `TDD` `Figma` `Unit Testing`
+`Git` `GitHub` `MySQL` `MongoDB` `REST APIs` `MVC` `TDD` `Unit Testing` `Figma`
 
 ---
 
