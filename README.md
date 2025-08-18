@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Shashith Rashmika</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Next.js | PHP | JavaFX</h3>
+<div align="center" style="
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px; 
+    padding: 30px 50px; 
+    box-shadow: 0 8px 32px rgba(0,0,0,0.25); 
+    display: inline-block;
+">
+    <h1 style="margin: 0; font-size: 3em; color: #ffffff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5);">
+        👋 Hi, I'm Shashith Rashmika
+    </h1>
+    <h3 style="margin: 10px 0 0; font-size: 1.5em; color: #ffffff; text-shadow: 1px 1px 5px rgba(0,0,0,0.5);">
+        💻 Full Stack Developer 
+    </h3>
+</div>
+
 
 ---
 
