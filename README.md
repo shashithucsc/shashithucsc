@@ -14,27 +14,9 @@
 
 <br/>
 
-<details open>
-  <summary><h2 style="display:inline-block;color:#22d3ee;">👨‍💻 Profile Summary</h2></summary>
-  <div style="padding:12px;border-radius:10px;background:rgba(34,211,238,0.07);border:1px solid rgba(34,211,238,0.2);margin-top:10px;">
-    Information Systems undergraduate with hands-on experience in building full-stack web applications using modern technologies like Next.js, MERN stack, and PHP (MVC). Currently learning Spring Boot. Strong understanding of clean code, problem-solving, and real-world system design. Passionate about building useful software and continuously improving skills.
-  </div>
-</details>
 
-<hr/>
 
-<details>
-  <summary><h2 style="display:inline-block;color:#22d3ee;">🎓 Education</h2></summary>
-  <div style="padding:12px;border-radius:10px;background:rgba(34,211,238,0.07);border:1px solid rgba(34,211,238,0.2);margin-top:10px;">
-    <b>University of Colombo School of Computing</b> (2023–2026)<br/>
-    BSc in Information Systems<br/><br/>
-    
-    <b>GPA:</b> 3.38 / 4.00<br/><br/>
-    
-    <b>Key Subjects:</b><br/>
-    Data Structures & Algorithms, Machine Learning, OOP, System Analysis & Design, Software Quality Assurance
-  </div>
-</details>
+
 
 <hr/>
 
@@ -60,60 +42,7 @@
 
 <hr/>
 
-<details>
-  <summary><h2 style="display:inline-block;color:#22d3ee;">🚀 Projects</h2></summary>
-  <div style="padding:12px;border-radius:10px;background:rgba(34,211,238,0.07);border:1px solid rgba(34,211,238,0.2);margin-top:10px;">
 
-  <b>✨ Athagili (Ongoing)</b><br/>
-  Dating platform with profiles, matching system, and chat.<br/>
-  <i>Next.js · Supabase · Tailwind</i>
-
-  <br/><br/>
-
-  <b>🛠️ HomeGenie</b><br/>
-  Platform to book home services with user roles and management system.<br/>
-  <i>PHP (MVC) · MySQL · JS</i>
-
-  <br/><br/>
-
-  <b>💬 Chill Campus</b><br/>
-  Social platform for university students with real-time chat.<br/>
-  <i>Next.js · MongoDB · Socket.io</i>
-
-  <br/><br/>
-
-  <b>💬 Chatty Chatty</b><br/>
-  Real-time messaging app with online/offline status.<br/>
-  <i>React · Node.js</i>
-
-  <br/><br/>
-
-  <b>🤖 Laptop Price Predictor</b><br/>
-  ML model to predict laptop prices using features.<br/>
-  <i>Python · Scikit-learn · Flask</i>
-
-  <br/><br/>
-
-  <b>☕ Cafe Hifi</b><br/>
-  POS system with sales tracking and roles.<br/>
-  <i>JavaFX</i>
-
-  <br/><br/>
-
-  <b>📚 Book Management System</b><br/>
-  CRUD system with frontend + backend and testing.<br/>
-  <i>React · Spring Boot · Selenium</i>
-
-  <br/><br/>
-
-  <b>🤖 SR Chatbot</b><br/>
-  Simple chatbot using API integration.<br/>
-  <i>Python · Flask</i>
-
-  </div>
-</details>
-
-<hr/>
 
 <details>
   <summary><h2 style="display:inline-block;color:#22d3ee;">📜 Certifications</h2></summary>
