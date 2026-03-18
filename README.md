@@ -4,7 +4,7 @@
   <h2 style="color: #22d3ee; margin-top: 0;">Information Systems Undergraduate & Software Engineering Intern</h2>
   <p><b>shashithrashmika2022@gmail.com | +94 76 0688588</b></p>
   
-  <a href="https://linkedin.com/in/shashithrashmika">
+  <a href="www.linkedin.com/in/shashith-rashmika-piyathilaka-ucsc">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22d3ee" />
   </a>
   <a href="https://github.com/shashithucsc">
