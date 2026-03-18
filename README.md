@@ -17,74 +17,87 @@
 <hr/>
 
 <details open>
-<summary><h2 style="display:inline-block; cursor:pointer; color:#22d3ee;">🛠️ Technical Arsenal</h2></summary>
-
-<blockquote>
-  
-<p><b>💻 Core Languages</b></p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-<p><b>⚙️ Frameworks & Libraries</b></p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</p>
-
-<p><b>🗄️ Databases, Cloud & Tools</b></p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<summary><h2 style="display:inline-block; cursor:pointer; color:#22d3ee; text-transform:uppercase; letter-spacing:2px;">Technical Arsenal</h2></summary>
 
 <br/>
 
+<table style="border: none; width: 100%; background: transparent;">
+<tr style="border: none;">
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Core Languages</h3>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</td>
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Frameworks & Libraries</h3>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Databases</h3>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</td>
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Tools & Cloud</h3>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,react,nextjs,express,spring,mysql,mongodb,postgres,docker,aws,git,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,react,nextjs,express,spring,mysql,mongodb,postgres,docker,aws,git,figma&perline=12" />
 </div>
 
-</blockquote>
 </details>
 
 <hr/>
 
 <details open>
-<summary><h2 style="display:inline-block; cursor:pointer; color:#22d3ee;">📜 Professional Certifications</h2></summary>
+<summary><h2 style="display:inline-block; cursor:pointer; color:#22d3ee; text-transform:uppercase; letter-spacing:2px;">Professional Certifications</h2></summary>
 
-<blockquote>
+<br/>
 
-<p><b>☁️ Cloud & AI</b></p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+<table style="border: none; width: 100%; background: transparent;">
+<tr style="border: none;">
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Cloud Infrastructure</h3>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-000000?style=for-the-badge&logo=amazonaws&logoColor=22d3ee" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundations-000000?style=for-the-badge&logo=oracle&logoColor=22d3ee" />
+</td>
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Software Engineering</h3>
+<img src="https://img.shields.io/badge/Frontend_Masters-Next.js_Fundamentals-000000?style=for-the-badge&logo=nextdotjs&logoColor=22d3ee" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Frontend_Masters-Spring_Boot_Enterprise-000000?style=for-the-badge&logo=spring&logoColor=22d3ee" />
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">System Design</h3>
+<img src="https://img.shields.io/badge/Udemy-Agentic_Design_Patterns-000000?style=for-the-badge&logo=udemy&logoColor=22d3ee" />
+</td>
+<td style="border: none; width: 50%;" valign="top">
+<h3 style="color: #22d3ee; text-transform: uppercase; font-size: 13px; letter-spacing: 1px;">Database Architecture</h3>
+<img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-000000?style=for-the-badge&logo=hackerrank&logoColor=22d3ee" />
+</td>
+</tr>
+</table>
 
-<p><b>💻 Software Engineering & Frameworks</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Frontend_Masters-Next.js_Fundamentals-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend_Masters-Spring_Boot_Enterprise-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Agentic_Design_Patterns-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
-</p>
-
-<p><b>🗄️ Database & Logic</b></p>
-<p>
-  <img src="https://img.shields.io/badge/HackerRank-SQL_Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</p>
-
-</blockquote>
 </details>
 
 <br/>
