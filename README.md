@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:22d3ee&height=200&section=header&text=Shashith%20Rashmika&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
   
-  <h2 style="color: #22d3ee; margin-top: 0;">Information Systems Undergraduate & Software Engineering Intern</h2>
+  <h2 style="color: #22d3ee; margin-top: 0;">University of Colombo School of Computing</h2>
   <p><b>shashithrashmika2022@gmail.com | +94 76 0688588</b></p>
   
   <a href="www.linkedin.com/in/shashith-rashmika-piyathilaka-ucsc">
