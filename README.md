@@ -103,6 +103,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashithucsc&show_icons=true&title_color=22d3ee&icon_color=ffffff&text_color=a9b1d6&bg_color=000000&hide_border=true&border_radius=10" />
+  <img src="https://github-stats-extended-frontend-delta-ten.vercel.app/api?username=shashithucsc&show_icons=true&title_color=22d3ee&icon_color=ffffff&text_color=a9b1d6&bg_color=000000&hide_border=true&border_radius=10" />
   <img src="https://streak-stats.demolab.com?user=shashithucsc&theme=tokyonight&background=000000&border=00000000&border_radius=10&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff" />
 </div>
